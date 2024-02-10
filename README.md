@@ -1,2 +1,3 @@
 # add-your-name
-1. Ellyjoy Kurgat
+1. Patric Murimi
+2. Ellyjoy Kurgat
