@@ -1,3 +1,2 @@
 # add-your-name
-
-1,. Ellyjoy Kurgat
+1. Ellyjoy Kurgat
